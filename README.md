@@ -12,7 +12,7 @@
  
  ### 🙋‍♂️ About me...
  
- <p>I'm a <strong>cybersecurity student</strong> who loves Offensive Security and Red Teaming. I am currently programming and learning different languages such as <strong>Go, Python and Powershell</strong> </p>
+ <p>I'm a <strong>cybersecurity student</strong> who loves Offensive Security and Red Teaming. I am currently programming and learning different languages such as <strong>Go, C, Python and Powershell</strong> </p>
  
  
  ### 🚀 Programming Languages and Tools...
